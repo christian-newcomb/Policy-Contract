@@ -25,3 +25,9 @@ h6{
 body{
 	background-color: #b2b2b2
 }
+html {
+	position: relative;
+	min-width: 1024px;
+	min-height: 768px
+	height: 100%;
+}
