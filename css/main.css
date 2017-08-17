@@ -1,0 +1,27 @@
+.lazy {
+	text-align: center;
+}
+h1 {
+	color: #1000ff
+}
+h2{
+	color: #ff0000
+}
+h3{
+	color: #8c0000;
+}
+h5{
+	font-size: 70%
+}
+h6{
+	font-size: 65%
+}
+.notice{
+	font-size: 60%
+}
+.disclaimer{
+	font-size: 50%
+}
+body{
+	background-color: #b2b2b2
+}
